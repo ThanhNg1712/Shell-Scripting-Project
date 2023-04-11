@@ -1,7 +1,7 @@
 # Shell-Scripting-Project
 # Please find the shell script project3.zsh for more details!!!!!
 
-Run the project3.zsh in the terminal as follow
+Run the project3.zsh in the terminal as follow:
 
 Acess to the script file: $ nano project3.zsh
 
