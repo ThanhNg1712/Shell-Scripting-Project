@@ -2,10 +2,14 @@
 # Please find the shell script project3.zsh for more details!!!!!
 
 Run the project3.zsh in the terminal as follow
+
 Acess to the script file: $ nano project3.zsh
+
 Run the script:
+
 $ chmod +x project3.zsh
-./project3.zsh 
+
+$./project3.zsh 
 
 
 # Description of the Project
